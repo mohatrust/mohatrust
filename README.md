@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohatrust
-- 👀 I’m interested in Linux,chatbots, django, mountain biking, field hockey
-- 🌱 I’m currently learning Pug 
-- 📫 How to reach me  Gavi@mohsecurity.xyz
+- 👀 I’m interested in Linux,chatbots,django,cyber security, mountain biking, field hockey football....etc
+- 🌱 I’m currently learning raspberry pi projects  
+- 📫 How to reach me  jattanm9@gmail.com
 
-My website https://mohsecurity.xyz
+My website "under development"
 
